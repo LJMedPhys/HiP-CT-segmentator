@@ -1,0 +1,8 @@
+glymur==0.14.3
+h5py==3.11.0
+matplotlib==3.10.3
+numba==0.61.2
+numpy==2.3.1
+Pillow==11.2.1
+PyYAML==6.0.2
+tqdm==4.66.5

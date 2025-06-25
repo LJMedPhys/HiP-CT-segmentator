@@ -1,0 +1,22 @@
+neighborhood_iterations: 1
+neighborhood_size: 10
+neighborhood_threshold: 0.35
+ring_offset: !!python/tuple
+- 0
+- 0
+ring_radius: 510
+ring_width: 80
+surrounded_cross_size:
+- 7
+- 7
+- 7
+surrounded_diag_size:
+- 7
+- 7
+- 7
+surrounded_iterations: 3
+surrounded_merge_size:
+- 62
+- 62
+- 62
+threshold: 19000
